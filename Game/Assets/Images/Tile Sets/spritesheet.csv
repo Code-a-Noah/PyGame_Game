@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="60" tileheight="60" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="spritesheet" tilewidth="60" tileheight="60" tilecount="100" columns="10">
+  <image source="spritesheet.png" width="600" height="600"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="10" height="10">
+  <data encoding="csv">
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,1,1,1,1,1,
+1,1,1,1,1,2,2,2,2,2,
+1,1,1,1,2,1,1,1,1,1,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7,
+7,7,7,7,7,7,7,7,7,7
+</data>
+ </layer>
+</map>
